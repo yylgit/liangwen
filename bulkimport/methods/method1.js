@@ -1,5 +1,5 @@
-import SDK from '../SDK';
+  import SDK from '../SDK';
 
-SDK.prototype.method1 = function() {
-  console.log('method1');
-}
+  SDK.prototype.method1 = function() {
+    console.log('method1');
+  }
