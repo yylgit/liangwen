@@ -1,0 +1,37 @@
+Arguments: 
+  /Users/yyl/.nvm/versions/node/v10.16.0/bin/node /Users/yyl/.yarn/bin/yarn.js add express
+
+PATH: 
+  /Users/yyl/emsdk/upstream/emscripten/:/opt/soft/ffmpeg-4.2.2-macos64-shared/bin:/usr/local/go/bin:/opt/soft/kibana-6.3.0-darwin-x86_64/bin:/usr/local/logstash/bin:/Users/yyl/.yarn/bin:/Users/yyl/.config/yarn/global/node_modules/.bin:/Users/yyl/.nvm/versions/node/v10.16.0/bin:/Users/yyl/.nvm/versions/node/v10.16.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Library/Apple/usr/bin:/Applications/Wireshark.app/Contents/MacOS:/Users/yyl/emsdk/upstream/emscripten/:/opt/soft/ffmpeg-4.2.2-macos64-shared/bin:/opt/soft/kibana-6.3.0-darwin-x86_64/bin:/usr/local/logstash/bin:/Users/yyl/.yarn/bin:/Users/yyl/.config/yarn/global/node_modules/.bin:/Users/yyl/.nvm/versions/node/v10.16.0/bin
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  10.16.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND ires.58corp.com ires.58corp.com:80
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:56:26)
+
+npm manifest: 
+  {
+    "name": "fetchstream",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
